@@ -10,6 +10,7 @@
 - gRPC
 - Dockerfile 
 - Swagger
+- Migration in docker-compose
 
 ## Start work
 Fill config.yaml with your OpenWeatherAPI token.
